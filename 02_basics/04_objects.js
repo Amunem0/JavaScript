@@ -24,3 +24,7 @@ console.log(courseInstrutor);
 
 const {courseInstrutor:instructor}=course
 console.log(instructor);
+
+
+//API CALL
+

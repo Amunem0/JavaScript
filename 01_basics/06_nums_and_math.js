@@ -12,7 +12,7 @@ const otherNumber =123.8966
 console.log(otherNumber.toPrecision(4));
 console.log(otherNumber.toPrecision(2));
 
-// const hundreds =1000000;
+// const hundreds =1000000; 
 // console.log(hundreds.toLocaleString('en_IN'));
 
 

@@ -1,6 +1,7 @@
 //IMEDIATELY INVOKED FUNCTION EXPRESSIONS  ((IIFE))
 
-(function chai(){\//named IIFE
+(function chai(){
+    //named IIFE
     console.log('DB CONNECTED');
 }) ();
 
